@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="st-python" height="70" width="80" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-  
+  <img align="center" alt="st-python" height="70" width="80" src="http://www.w3.org/2000/svg">
   <img align="center" alt="st-python" height="100" width="110" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
   <img align="right" alt="sant-pic" height="250" style="border-radius:100px;" src="https://media.discordapp.net/attachments/1031065713886122035/1031065786288197713/Sharingan_GIF_-_Sharingan_-_Discover__Share_GIFs.gif?width=225&height=400">
 
