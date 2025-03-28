@@ -11,7 +11,7 @@ on:
   # Aciona sempre que houver um push na branch master (ou a branch principal do seu repositório)
   push:
     branches:
-      - master  # Alterar para 'main' caso sua branch principal seja 'main'
+      - main  # Alterar para 'main' caso sua branch principal seja 'main'
 
 jobs:
   generate:
