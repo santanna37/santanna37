@@ -8,12 +8,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: santanna37
-          outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v3  # Atualizado para v3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload da animação
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist
