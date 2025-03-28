@@ -1,0 +1,19 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: santanna37
+          outputs: dist/snake.svg
+      - uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist
