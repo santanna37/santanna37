@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: santanna37
           outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3  # Atualizado para v3
         with:
           name: snake
           path: dist
