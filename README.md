@@ -10,7 +10,7 @@
   <img align="center" alt="st-python" height="70" width="80" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
                                                                   
   <img align="center" alt="st-python" height="100" width="110" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
-  <img align="right" alt="sant-pic" height="250" style="border-radius:100 px;" src="https://media.discordapp.net/attachments/1031065713886122035/1031065786288197713/Sharingan_GIF_-_Sharingan_-_Discover__Share_GIFs.gif?width=225&height=400">
+  <img align="right" alt="sant-pic" height="250" style="border-radius:100 px;" src="https://i.pinimg.com/736x/37/0c/90/370c901afe0ce165b6055038872f74a2.jpg">
 
 ##
 
