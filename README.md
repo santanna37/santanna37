@@ -48,7 +48,7 @@ Experiência em ambientes corporativos de alta complexidade como **BNDES**, **Mo
 - Python (avançado)
 - FastAPI
 - SQL
-- R (básico)
+- R 
 
 ### Dados & BI
 - Modelagem relacional
@@ -65,6 +65,7 @@ Experiência em ambientes corporativos de alta complexidade como **BNDES**, **Mo
 - CI/CD (conceitos e prática)
 
 ### Arquitetura
+- MVC
 - Clean Architecture
 - Hexagonal Architecture
 - Separação de camadas (Domain, Data, Infra, Presentation)
