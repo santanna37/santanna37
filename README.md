@@ -1,8 +1,15 @@
 
 # Luiz Felipe de Menezes  
 **Backend Developer | Data & Analytics | Python | APIs Escaláveis**
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santanna37&show_icons=true)
+
 
 ## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santanna37&show_icons=true&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanna37&layout=compact&theme=codeSTACKr"/>
+</div>
 
 <div align="center">
   <img
